@@ -3,6 +3,8 @@ print(a,type(a))
 b=int(a)
 print(b,type(b))#32
 
+#folat to int is possible bool True and False are possible 
+#and String data if int is then possible all remaning values are not possible 
 a=45+5j
 print(a,type(a))
 b=int(b)

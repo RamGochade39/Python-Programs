@@ -38,3 +38,12 @@ print(str[:4])
 print(str[:-5])
 print(str[:-4])
 
+print("=====================================================")
+#With Step "PYTHON"
+print(str[0:6:1])
+print(str[5:-432:-1])
+print(str[5:-32:-2])
+print(str[0:6:3])
+
+
+

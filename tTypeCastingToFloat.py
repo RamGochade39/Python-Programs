@@ -3,6 +3,10 @@ print(a,type(a))
 b=float(a)
 print(b,type(b))#32.0
 
+#if bool to float True and False possible int to Float possible and 
+# in string 
+#it should contain int or float than only possible 
+
 a=45+5j
 print(a,type(a))
 b=float(a)
